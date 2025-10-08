@@ -32,4 +32,4 @@ En los 2000 y 2010, los videojuegos se volvieron una forma de arte y cultura glo
 <img width="314" height="160" alt="image" src="https://github.com/user-attachments/assets/4a36ff31-1c28-4ade-b52d-c2e7b1f23399" />
 
 
-
+Si quieres saber más sobre los videojuegos, en este enlace te muestra la evolución de las consolas. 
